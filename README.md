@@ -29,35 +29,6 @@ Each folder or file typically represents a standalone project or test program.
   - `<sstream>`
   - `<fstream>`
 
-## ▶️ How to Compile & Run
-
-To compile a single file:
-
-```bash
-g++ -std=c++17 file.cpp -o program
-./program
-```
-
-To compile multiple files in a project:
-
-```bash
-g++ -std=c++17 *.cpp -o program
-./program
-```
-
-## 📂 Repository Structure
-
-```
-/project1/
-    main.cpp
-/project2/
-    source.cpp
-    header.h
-/random_tests/
-    experiment.cpp
-README.md
-```
-
 ## 🎯 Purpose of This Repo
 
 This repository exists to:
