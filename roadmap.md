@@ -1,8 +1,3 @@
-# Algorithm Learning Roadmap
-
-This is a complete roadmap for learning computer science algorithms. Each node represents a category or task, and arrows represent the recommended learning order.
-
-```mermaid
 flowchart TD
     %% ===== Foundations =====
     A[Foundations] --> B[Variables, Loops, Functions, Recursion]
@@ -108,4 +103,3 @@ flowchart TD
     style O fill:#C71585,stroke:#333,stroke-width:2px
     style P fill:#8A2BE2,stroke:#333,stroke-width:2px
     style Q fill:#4B0082,stroke:#333,stroke-width:2px
-```
