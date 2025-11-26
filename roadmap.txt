@@ -1,0 +1,208 @@
+Foundations
+├─ Variables, Loops, Functions, Recursion
+│   • Variables & Data Types
+│   • Conditional Statements (if, switch)
+│   • Loops (for, while, do-while)
+│   • Functions (parameters, return values, scope)
+│   • Recursion basics (factorial, Fibonacci)
+│   • Stack vs Heap memory concept
+│
+├─ Arrays & Strings
+│   • Array declaration and initialization
+│   • Multi-dimensional arrays
+│   • String handling (C++ std::string)
+│   • Basic string operations (length, substring, concatenation)
+│   • Iterating over arrays and strings
+│
+├─ Basic Sorting & Searching
+│   • Linear search
+│   • Binary search
+│   • Bubble sort, Selection sort, Insertion sort
+│
+├─ Simple Math Algorithms
+│   • Prime checking
+│   • GCD & LCM
+│   • Factorials, combinatorics basics
+│
+└─ Understanding Time Complexity / Big O
+    • Constant, logarithmic, linear, quadratic complexities
+    • Analyzing loops and nested loops
+    • Comparing algorithms
+
+    ↓ Learn all of the above before moving to Sorting & Searching Algorithms
+
+Sorting & Searching
+├─ Sorting Algorithms
+│   • Bubble Sort, Selection Sort, Insertion Sort
+│   • Merge Sort, Quick Sort, Heap Sort
+│   • Stability of sorting algorithms
+│   • In-place vs not in-place sorting
+│
+└─ Searching Algorithms
+    • Linear Search
+    • Binary Search (recursive & iterative)
+    • Ternary Search
+    • Search in 2D arrays / matrices
+    • Lower bound / upper bound concept
+
+    ↓ Once comfortable, move to Recursion & Backtracking
+
+Recursion & Backtracking
+├─ Recursion
+│   • Recursive problem-solving patterns
+│   • Base case and recursive case
+│   • Call stack visualization
+│
+├─ Backtracking
+│   • N-Queens
+│   • Sudoku Solver
+│   • Maze Solving (DFS)
+│   • Word Search in grid
+│   • Generating permutations / combinations
+│
+└─ Key concepts
+    • How to prune branches
+    • Recursive tree exploration
+
+    ↓ After mastering backtracking, move to Dynamic Programming
+
+Dynamic Programming (DP)
+├─ Basics
+│   • Memoization vs Tabulation
+│   • Identifying overlapping subproblems
+│   • Identifying optimal substructure
+│
+├─ Classic DP Problems
+│   • Fibonacci Sequence
+│   • Knapsack Problem (0/1 and fractional)
+│   • Longest Common Subsequence
+│   • Matrix Chain Multiplication
+│   • Coin Change Problem
+│
+└─ Practice Patterns
+    • DP on sequences
+    • DP on grids
+    • DP on subsets
+
+    ↓ After DP, move to Greedy Algorithms
+
+Greedy Algorithms
+├─ Concepts
+│   • Greedy choice property
+│   • When greedy works / fails
+│
+├─ Classic Problems
+│   • Activity Selection
+│   • Huffman Coding
+│   • Fractional Knapsack
+│   • Minimum Spanning Tree (Prim's & Kruskal's)
+│
+└─ Practice
+    • Interval scheduling
+    • Job sequencing
+
+    ↓ After greedy, move to Graph Algorithms
+
+Graph Algorithms
+├─ Graph Basics
+│   • Graph representation (adjacency list, adjacency matrix)
+│   • Directed vs undirected graphs
+│   • Weighted vs unweighted graphs
+│
+├─ Traversal
+│   • BFS (Shortest path, level order)
+│   • DFS (path finding, connected components)
+│
+├─ Advanced Graph Problems
+│   • Topological Sort
+│   • Minimum Spanning Tree (Prim’s & Kruskal’s)
+│   • Cycle detection
+│   • Connected components
+│   • Dijkstra’s Algorithm
+│   • Bellman-Ford Algorithm
+│   • A* Algorithm
+│
+└─ Practice
+    • Maze solving, grid shortest path
+    • Social network connections
+    • Road networks
+
+    ↓ After Graphs, move to Randomized / Probabilistic Algorithms
+
+Randomized / Probabilistic Algorithms
+├─ Concepts
+│   • Random number generation
+│   • Probability-based problem solving
+│
+├─ Classic Problems
+│   • Monte Carlo Simulation (e.g., Pi estimation)
+│   • Randomized QuickSort
+│   • Las Vegas Algorithms
+│
+└─ Practice
+    • Random sampling
+    • Approximation algorithms
+
+    ↓ After Randomized Algorithms, move to Computational Geometry
+
+Computational Geometry
+├─ Concepts
+│   • Points, lines, segments, polygons
+│   • Geometric primitives (distance, angle)
+│
+├─ Classic Problems
+│   • Convex Hull (Graham Scan, Jarvis March)
+│   • Line Intersection
+│   • Polygon Area Calculation
+│   • Closest Pair of Points
+│
+└─ Practice
+    • Geometry-based game mechanics
+    • Mapping algorithms
+
+    ↓ After Geometry, move to String / Text Algorithms
+
+String / Text Algorithms
+├─ Basics
+│   • Pattern searching
+│   • Prefixes and suffixes
+│
+├─ Classic Problems
+│   • KMP Pattern Search
+│   • Rabin-Karp
+│   • Trie / Prefix Trees
+│   • Suffix Arrays / Suffix Trees
+│   • Levenshtein Distance
+│
+└─ Practice
+    • Autocomplete systems
+    • Spell checkers
+    • Text compression
+
+    ↓ After Strings, move to Number Theory & Math Algorithms
+
+Number Theory & Math Algorithms
+├─ Basics
+│   • Prime numbers
+│   • GCD / LCM
+│   • Modular arithmetic
+│
+├─ Advanced Problems
+│   • Sieve of Eratosthenes
+│   • Modular Exponentiation
+│   • Fast Fourier Transform (FFT)
+│   • Pollard's Rho Factorization
+│
+└─ Practice
+    • Cryptography basics
+    • Combinatorics
+
+    ↓ Finally, Advanced / Miscellaneous
+
+Advanced / Miscellaneous
+├─ Disjoint Set / Union-Find (DSU)
+├─ Network Flow (Ford-Fulkerson / Edmonds-Karp)
+├─ Graph Coloring
+├─ Game Theory / Minimax
+└─ Neural Networks / Machine Learning from scratch
+
