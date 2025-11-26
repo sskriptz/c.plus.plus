@@ -1,4 +1,4 @@
-# 💻 C++ Projects & Experiments
+# C++ Work
 
 Welcome to my repository of **C++ programs**, **practice exercises**, **mini-projects**, and **experiments**.  
 This repo serves as a collection of everything I build while learning, practicing, or exploring C++ concepts — from simple algorithms to more advanced systems.
